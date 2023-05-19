@@ -20,7 +20,7 @@ RSK is a transformative online learning program initiated by the Indian Institut
 [Linkdin](https://www.linkedin.com/iitkanpur/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ----
-### Quote of Day
+## Quote of the Day
 <script type="text/javascript" src="https://theysaidso.com/gadgets/v3/theysaidso.js"></script>
 <div class="tso_classic">
   <script>TheySaidSo.render({ qod_category : 'students'});</script>
