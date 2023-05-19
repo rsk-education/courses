@@ -13,11 +13,11 @@ RSK is a transformative online learning program initiated by the Indian Institut
 
 ## Our Social Handles
 
-[Visit our YouTube channel](https://www.youtube.com/channel/UC9W-g7OmLrF-jpF01Q2nPcw){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Like us on Facebook](https://www.facebook.com/iitkanpur){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Follow us on Twitter](https://twitter.com/IITKanpur){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Follow us on Instagram](https://www.instagram.com/iitkanpur){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Connect with us on Linkdin](https://www.linkedin.com/iitkanpur/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[YouTube](https://www.youtube.com/@rskiitk){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Facebook](https://www.facebook.com/ubaiitk){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Twitter](https://twitter.com/rskiitk){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Instagram](https://www.instagram.com/rskiitk/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Linkdin](https://www.linkedin.com/iitkanpur/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ----
 ### Quote of Day
@@ -25,7 +25,7 @@ RSK is a transformative online learning program initiated by the Indian Institut
 <div class="tso_classic">
   <script>TheySaidSo.render({ qod_category : 'students'});</script>
 </div>
-
+<!--
 ### Physics Class
 <div style="text-align: center;">
   <iframe src="https://www.youtube.com/embed/2v0Q2TYyBCU" style="width: 80%; height: 315px;"></iframe>
@@ -36,3 +36,4 @@ RSK is a transformative online learning program initiated by the Indian Institut
 ### Notes
 
 <iframe src="https://drive.google.com/file/d/1jwDcmYRr6RnlFZN2WI89pLF56E7TA-_n/preview" width="100%" height="800px" allowfullscreen></iframe>
+-->
