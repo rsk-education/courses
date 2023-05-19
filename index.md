@@ -31,7 +31,7 @@ RSK is a transformative online learning program initiated by the Indian Institut
   <iframe src="https://www.youtube.com/embed/2v0Q2TYyBCU" style="width: 80%; height: 315px;"></iframe>
 </div>
 
-<!-- <iframe src="https://www.youtube.com/embed/2v0Q2TYyBCU" width="100%" frameborder="0" allowfullscreen></iframe> -->
+
 
 ### Notes
 
